@@ -1,0 +1,5 @@
+Flask==1.1.2
+yfinance
+pandas
+pandas_datareader
+flask-jsonpify
